@@ -1,0 +1,11 @@
+UIWindow
+  size: 32 32
+
+  Item
+    id: Item1
+    anchors.left: parent.left
+    anchors.top: parent.top
+    virtual: true
+    margin-top: 56
+    margin-left: 92
+    size: 32 32
